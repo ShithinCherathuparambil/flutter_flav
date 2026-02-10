@@ -1,3 +1,3 @@
-# flutter_fav
+# flutter_flav
 
 A new Flutter project.
